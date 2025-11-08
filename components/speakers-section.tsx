@@ -37,11 +37,6 @@ const speakers = [
     image: "/speakers/mike-silagadze.jpeg",
   },
   {
-    name: "Theo Golden",
-    title: "Investment Manager, Baillie Gifford",
-    image: "/speakers/theo-golden.jpeg",
-  },
-  {
     name: "Haonan Li",
     title: "Co-founder and CEO, Codex",
     image: "/speakers/haonan-li.jpg",
