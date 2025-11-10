@@ -60,7 +60,7 @@ const scheduleItems = [
   },
   {
     time: "2:00 PM - 2:30 PM",
-    title: "Keynote: Stani Kulechov",
+    title: "Money for the Internet Era: Stablecoins & Tokenized Assets",
     speaker: "Stani Kulechov, Founder of Aave Labs",
     type: "keynote",
     session: "Keynote",
