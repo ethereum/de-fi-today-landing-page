@@ -31,7 +31,7 @@ export function Header() {
             className="md:size-default bg-primary hover:bg-primary/90 text-white shadow-lg shadow-primary/25 text-sm md:text-base px-3 md:px-4"
             asChild
           >
-            <a href="https://devconnect.org/calendar?event=defi-today" target="_blank" rel="noopener noreferrer">
+            <a href="https://luma.com/lklh3u0v" target="_blank" rel="noopener noreferrer">
               Register Now
             </a>
           </Button>

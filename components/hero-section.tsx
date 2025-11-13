@@ -40,7 +40,7 @@ export function HeroSection() {
               className="bg-primary hover:bg-primary/90 text-white shadow-lg shadow-primary/25 px-8"
               asChild
             >
-              <a href="https://devconnect.org/calendar?event=defi-today" target="_blank" rel="noopener noreferrer">
+              <a href="https://luma.com/lklh3u0v" target="_blank" rel="noopener noreferrer">
                 Get Your Ticket
               </a>
             </Button>
