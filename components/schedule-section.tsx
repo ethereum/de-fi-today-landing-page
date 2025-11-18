@@ -37,7 +37,7 @@ const scheduleItems = [
   {
     time: "12:00 PM - 12:30 PM",
     title: "The Evolution of On-Chain Credit Markets",
-    panelists: ["Merlin Egalite, Co-Founder of Morpho", "Rahul Goyal, Head of Institutional Partnerships at Gauntlet"],
+    panelists: ["Merlin Egalite, Co-Founder of Morpho", "Rahul Goyal, Head of Institutional Partnerships at Gauntlet", "Marcin Kazmiercza, Co-Founder of RedStone and Credora"],
     moderator: "Ben Rodriguez, Protocol Specialist at Coinbase",
     type: "panel",
     session: "Panel",
@@ -95,7 +95,7 @@ const scheduleItems = [
   {
     time: "4:30 PM - 5:00 PM",
     title: "Skeuomorphic Markets",
-    speaker: "Austin Adams, Founder Whetstone Research",
+    speaker: "Austin Adams, Founder of Whetstone Research",
     type: "keynote",
     session: "Closing Keynote",
   },
