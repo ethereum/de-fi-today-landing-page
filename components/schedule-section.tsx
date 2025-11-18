@@ -95,7 +95,7 @@ const scheduleItems = [
   {
     time: "4:30 PM - 5:00 PM",
     title: "Skeuomorphic Markets",
-    speaker: "Austin Adams, Founder Whetstone Research",
+    speaker: "Austin Adams, Founder of Whetstone Research",
     type: "keynote",
     session: "Closing Keynote",
   },
