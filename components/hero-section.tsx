@@ -30,7 +30,7 @@ export function HeroSection() {
                          md:bg-transparent md:text-muted-foreground md:border-0 md:py-2 md:px-3 md:-mx-3 md:rounded-md md:hover:bg-primary/5 md:hover:text-primary md:active:bg-primary/10"
             >
               <MapPin className="h-5 w-5 flex-shrink-0" />
-              <span>Inside Devconnect</span>
+              <span>M1 Stage, Yellow Pavilion, Devconnect Venue</span>
             </a>
           </div>
 
